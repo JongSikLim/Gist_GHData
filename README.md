@@ -32,4 +32,4 @@ MIT © [Yogi](LICENSE)
 
 
 ## Trigger
-done
+done of done
